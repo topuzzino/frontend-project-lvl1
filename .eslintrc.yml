@@ -1,0 +1,13 @@
+# rules:
+#   no-console: 0
+#   import/extensions: 0
+{
+  "parserOptions": {
+    "ecmaVersion": 9
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "no-console": "off",
+    "import/extensions": "off"
+  }
+}
