@@ -1,5 +1,5 @@
 {
-  'env': true,
+  'env': { 'node': true },
   'parserOptions': { 'ecmaVersion': 9 },
   'parser': 'babel-eslint',
   'rules': { 'no-console': 'off', 'import/extensions': 'off' },
