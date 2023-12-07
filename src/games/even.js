@@ -36,7 +36,7 @@ const gameLogic = () => {
             Let's try again ${name}`)
     }
   }
-  console.log(`Congratulations, ${name}!`)
+  console.log(`Congratulations, Bill!`)
 }
 
 export default gameLogic

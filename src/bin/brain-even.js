@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-import gameLogic from '../brain-even/game-logic.js'
+import gameLogic from '../games/even.js'
 
-console.log('oink')
 gameLogic()
