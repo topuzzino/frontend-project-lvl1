@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "/src/index.js",
+  "type": "module",
   "bin": {
-    "brain-games": "dist/bin/brain-games.js"
+    "brain-games": "dist/bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "files": [
     "dist"
